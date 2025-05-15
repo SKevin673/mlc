@@ -32,5 +32,5 @@ build/
 *~
 /Inconsolata
 /source-*
-install_fonts.sh
-config.ini
+/install_fonts.sh
+/config.ini
