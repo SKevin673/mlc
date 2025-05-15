@@ -30,3 +30,7 @@ build/
 .vscode
 .pytest_cache
 *~
+/Inconsolata
+/source-*
+install_fonts.sh
+config.ini
