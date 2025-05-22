@@ -34,3 +34,4 @@ build/
 /source-*
 /install_fonts.sh
 /config.ini
+*.pkl
